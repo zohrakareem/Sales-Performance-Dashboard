@@ -1,39 +1,61 @@
-📊 Sales Performance Dashboard in Excel
+# 📊 Superstore Sales Performance Dashboard
 
-This Sales Performance Dashboard was built in Microsoft Excel to analyze and visualize business sales data in a clear and interactive way. The dashboard helps track key performance indicators (KPIs), identify sales trends, and support decision-making.
+This project analyzes **Superstore Sales Performance** using Excel.  
+It includes raw data, pivot tables, and an interactive dashboard for business insights.  
 
-🎯 Key Features
+---
 
-✅ Total Revenue & Profit Tracking – Monitor overall business performance.
+## 🔎 Project Overview
+- Built in **Microsoft Excel**
+- Provides insights into:
+  - Total Revenue & Profit
+  - Average Delivery Time
+  - Sales by Category, Segment, and Region
+  - Year & Month trend analysis
+  - State-wise sales performance (map visualization)
 
-✅ Average Profit Margin – Understand profitability at a glance.
+---
 
-✅ Monthly Sales Trends – Line/column charts to see seasonal patterns.
+## 📂 Repository Structure
+- **`/source_code/` → `superstore_data.xlsx`**  
+  Contains the raw dataset and pivot tables used for analysis.  
 
-✅ Sales by Region & State – Map and regional breakdown for geographic insights.
+- **`/dashboard/` → `superstore_dashboard.xlsx`**  
+  Contains the **interactive Excel Dashboard** with KPIs, charts, and slicers.  
 
-✅ Sales by Segment & Category – Product/customer segmentation for better targeting.
+---
 
-✅ Interactive Slicers – Filter by Year, Category, Region, and Segment.
+## 📸 Dashboard Preview
+*(You can add a screenshot of your dashboard here for better visualization.)*  
+Example:  
 
-📈 Benefits
+![Superstore Dashboard](dashboard_preview.png)
 
-Provides a single view of sales health.
+---
 
-Highlights top-performing categories, regions, and time periods.
+## 🛠️ Tools Used
+- Microsoft Excel
+  - Pivot Tables
+  - Charts & Graphs
+  - Slicers for interactivity
+  - Conditional Formatting
 
-Helps management make data-driven decisions.
+---
 
-Easy to use for non-technical users with slicers and filters.
+## 📑 Insights from the Dashboard
+- Identifies top-performing categories and regions  
+- Highlights sales & profit trends over time  
+- Helps track KPIs for better business decisions  
 
-🛠️ Tools & Techniques Used
+---
 
-Excel Formulas & Formatting (data cleaning, calculated fields)
+## 🎓 Internship Information
+This project was created as part of the **Elevvo Internship Program** in **Data Analytics**.  
+The task focused on building an interactive Excel dashboard to analyze and visualize Superstore sales data. 
+---
 
-Pivot Tables for data summarization
+## 📌 Note
+- The **source code** (data & pivots) is available in `.xlsx` format.  
+- The **final dashboard** is stored separately in the `dashboard.xlsx` file.  
 
-Pivot Charts & Maps for visualization
-
-Slicers for interactive filtering
-
-Conditional Formatting to highlight important trends
+---
