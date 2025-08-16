@@ -17,10 +17,10 @@ It includes raw data, pivot tables, and an interactive dashboard for business in
 ---
 
 ## 📂 Repository Structure
-- **`/source_code/` → `superstore_data.xlsx`**  
+- **`/source_code/` → `superstore.xlsx`**  
   Contains the raw dataset and pivot tables used for analysis.  
 
-- **`/dashboard/` → `superstore_dashboard.xlsx`**  
+- **`/dashboard/` → `Sales-Performance-Dashboard-Excel.xlsx`**  
   Contains the **interactive Excel Dashboard** with KPIs, charts, and slicers.  
 
 ---
