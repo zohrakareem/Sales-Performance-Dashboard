@@ -29,7 +29,8 @@ It includes raw data, pivot tables, and an interactive dashboard for business in
 *(You can add a screenshot of your dashboard here for better visualization.)*  
 Example:  
 
-![Superstore Dashboard](dashboard_preview.png)
+!![Sales-Performanace Dashboard](https://github.com/user-attachments/assets/88dc612a-0628-4afd-9dbc-5782cdbe300f)
+
 
 ---
 
